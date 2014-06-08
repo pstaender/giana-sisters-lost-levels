@@ -1,11 +1,11 @@
 # Giana Sisters
 ## "The lost Levels" on C64
 
-Back in 1989 the two german programmers Sandy and Prof. Knibble hacked the Rainbow Arts C64 release "Giana Sisters".
+Back in 1989 the two german programmers **Sandy** and **Prof. Knibble** hacked the Rainbow Arts C64 release "Giana Sisters".
 
-They programmed a (Giana Sisters Construction Kit)[http://www.c64-wiki.de/index.php/Das_Gianna-Sisters_Construction-Kit] which enabled the user to build custom levels of the "Giana Sisters" game. Unfortunately they could not officially release the software due to copyright and legal issues.
+They programmed a [Giana Sisters Construction Kit](http://www.c64-wiki.de/index.php/Das_Gianna-Sisters_Construction-Kit) which enabled the user to build custom levels of the "Giana Sisters" game. Unfortunately they could not officially release the software due to copyright and legal issues. Until today there is missing a working "level packager" who could build a working game of the contrsuction kit generated levels. 
 
-Additionaly there exists these "Giana Sisters" clones which are build with the construction kit:
+The following "Giana Sisters" clones exists which are build with the construction kit:
 
   * Gittys Dreams (I & II)
   * Gittys News & Gittys News +
@@ -26,7 +26,7 @@ The images are tested with VICE and Emu64 and seems to work fine.
 
 ### Todo
 
-Some "Giana Sisters" clones are still missing. For instance "The Power Sisters" couldn't be recovered from disc; so feel free to contribute if you can find any other clones :)
+"The Power Sisters" couldn't be recovered from disc; so feel free to contribute if you can find this or any other unlisted clone :)
 
 ### Disclaimer and License
 
