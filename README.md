@@ -1,11 +1,11 @@
 # Giana Sisters
 ## "The lost Levels" on C64
 
-Back in 1989 the two german programmers **Sandy** and **Prof. Knibble** hacked the Rainbow Arts C64 release "Giana Sisters".
+Back in 1989 two german programmers **Sandy** and **Prof. Knibble** hacked the C64 game "The Great Giana Sisters".
 
-They programmed a [Giana Sisters Construction Kit](http://www.c64-wiki.de/index.php/Das_Gianna-Sisters_Construction-Kit) which enabled the user to build custom levels of the "Giana Sisters" game. Unfortunately they could not officially release the software due to copyright and legal issues. Until today there is missing a working "level packager" who could build a working game of the contrsuction kit generated levels. 
+They programmed a [Giana Sisters Construction Kit](http://www.c64-wiki.de/index.php/Das_Gianna-Sisters_Construction-Kit) which made possible to build custom levels. Unfortunately they could not officially release the software due to copyright and legal issues. Until today there is missing a working "level packager" who could build a working game of the contrsuction kit generated levels. 
 
-The following "Giana Sisters" clones exists which are build with the construction kit:
+The following "Giana Sisters" clones exists which are build by Sandy or Prof. Knibble with the construction kit:
 
   * Gittys Dreams (I & II)
   * Gittys News & Gittys News +
@@ -30,6 +30,6 @@ The images are tested with VICE and Emu64 and seems to work fine.
 
 ### Disclaimer and License
 
-I'm not involved in any of these projects neither I own any copyrights for this software. The software is contributed with none commercial background. I just share the content of these over 15 years old discs to keep a piece of C64 sofware history.
+I'm not involved in any of these projects neither I own any copyrights for this software. Owners retain copyright to their respective works (Time Warp Productions, Rainbow Arts, Armin Gessert, Sandy, Prof. Knibble). The disk images are contributed with no commercial intention. I just share the content of these over 15 years old discs to keep a piece of C64 sofware history.
 
 If you have any copyright concern please contact me via [philipp.staender@gmail.com](mailto:philipp.staender@gmail.com)  
