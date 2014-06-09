@@ -7,10 +7,12 @@ They programmed a [Giana Sisters Construction Kit](http://www.c64-wiki.de/index.
 
 The following "Giana Sisters" clones exists which are build by Sandy or Prof. Knibble with the construction kit:
 
-  * Gittys Dreams (I & II)
-  * Gittys News & Gittys News +
-  * Knibble Girls (I & II)
-  * Frankys Horror Trip
+  * Gittys Dreams I
+  * Gittys Dreams II
+  * Gittys News
+  * Gittys News +
+  * Knibble Girls I
+  * Frankys Horror Trip I
 
 ### Motivation
 
@@ -26,7 +28,7 @@ The images are tested with VICE and Emu64 and seems to work fine.
 
 ### Todo
 
-"The Power Sisters" couldn't be recovered from disc; so feel free to contribute if you can find this or any other unlisted clone :)
+"The Power Sisters", "Frankys Horror Trip I" and "Knibble Girls II" couldn't be recovered from disc; so feel free to contribute if you have these or any other unlisted clone.
 
 ### Disclaimer and License
 
