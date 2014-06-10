@@ -9,8 +9,7 @@ The following "Giana Sisters" are created by Sandy or Prof. Knibble with the con
 
   * Gittys Dreams I
   * Gittys Dreams II
-  * Gittys News
-  * Gittys News +
+  * The Gitty's News +
   * Knibble Girls I
   * Frankys Horror Trip I
 
@@ -45,7 +44,11 @@ To execute a `POKE` `SYS` command, you have to load the game and do a **soft** r
 
 ### Todo
 
-"The Power Sisters", "Frankys Horror Trip I" and "Knibble Girls II" couldn't be recovered from disc; so feel free to contribute these or any other clones.
+"The Power Sisters", "The Gitty's News", "Frankys Horror Trip I" and "Knibble Girls II" couldn't be recovered from disc; so feel free to contribute these or any other clones.
+
+### Issues
+
+Sometimes "The Gitty's News +" doesn't start, in this case start the em
 
 ### Gameplay
 
