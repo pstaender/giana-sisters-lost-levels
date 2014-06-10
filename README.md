@@ -1,11 +1,11 @@
 # Giana Sisters
 ## "The lost Levels" on C64
 
-Back in 1989 two german programmers **Sandy** and **Prof. Knibble** hacked the C64 game "The Great Giana Sisters".
+In 1989 the two german programmers **Sandy** and **Prof. Knibble** hacked the C64 game "The Great Giana Sisters".
 
-They programmed a [Giana Sisters Construction Kit](http://www.c64-wiki.de/index.php/Das_Gianna-Sisters_Construction-Kit) which made possible to build custom levels. Unfortunately they could not officially release the software due to copyright and legal issues. Until today there is missing a working "level packager" who could build a working game of the contrsuction kit generated levels. 
+They programmed a [Giana Sisters Construction Kit](http://www.c64-wiki.de/index.php/Das_Gianna-Sisters_Construction-Kit) which made custom level building possible. Unfortunately they could not officially release the software due to copyright and legal issues. Until today there is no "level packager" to build a executable game of the construction kit generated levels but you can use the construction kit to build seperate levels just for fun.
 
-The following "Giana Sisters" clones exists which are build by Sandy or Prof. Knibble with the construction kit:
+The following "Giana Sisters" are created by Sandy or Prof. Knibble with the construction kit:
 
   * Gittys Dreams I
   * Gittys Dreams II
@@ -26,9 +26,32 @@ All recovered games can be found in `.d64` images in the corresponding folders.
 
 The images are tested with VICE and Emu64 and seems to work fine.
 
+### Cheats and start options
+
+  * Press A+R+M+N to skip current level
+  * `POKE 5083, 5` (no giana movement animation)
+  * `POKE 8207, 173` (extras stay after loosing a life)
+  * `POKE 4242, 42` (alternate jump) 
+  * `POKE 6664, 96` (bridges indestructible)
+  * `POKE 2213, 164` (giana is always in punk mode)
+  * `POKE 7450, 95` (unlimited time)
+  * `POKE 7236, 27` (no collision check)
+  * `POKE 7326, 173` (unlimited diamonds)
+  * `POKE 2446, 255` (unlimited lives)
+  * `SYS 2127` (start without highscore load)
+  * `SYS 2098` (start with highscore load)
+
+To execute a `POKE` `SYS` command, you have to load the game and do a **soft** reset. Then type `POKE …` hit enter and the start the game with typing `SYS 2127`.
+
 ### Todo
 
-"The Power Sisters", "Frankys Horror Trip I" and "Knibble Girls II" couldn't be recovered from disc; so feel free to contribute if you have these or any other unlisted clone.
+"The Power Sisters", "Frankys Horror Trip I" and "Knibble Girls II" couldn't be recovered from disc; so feel free to contribute these or any other clones.
+
+### Gameplay
+
+  * [Gittys Dreams I](https://www.youtube.com/watch?v=SsZpNDQa5AM)
+  * [Gittys Dreams II](https://www.youtube.com/watch?v=HCONoKg4s-Q)
+  * [Frankys Horror Trip 2](https://www.youtube.com/watch?v=j_uVOEuHIxk)
 
 ### Disclaimer and License
 
