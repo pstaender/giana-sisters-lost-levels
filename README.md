@@ -7,15 +7,15 @@ They programmed a [Giana Sisters Construction Kit](http://www.c64-wiki.de/index.
 
 The following "Giana Sisters" are created by Sandy or Prof. Knibble with the construction kit:
 
-  * Gittys Dreams I
-  * Gittys Dreams II
-  * The Gitty's News +
-  * Knibble Girls I
-  * Frankys Horror Trip I
+  * Gittys Dreams I + II
+  * The Gitty's News (+)
+  * Knibble Girls I + II
+  * Frankys Horror Trip I + II
+  * Power Sisters
 
 ### Motivation
 
-Unfortunately I couldn't find any working image of the "Giana Sisters Construction Kit" on the internet. Also some "Giana Sisters" clones are not available. So I transfered some of my old C64 disks to the PC these days.  
+Unfortunately I couldn't find any working image of the "Giana Sisters Construction Kit" on the internet. Also some "Giana Sisters" clones were not available. So I transfered some of my old C64 disks to the PC these days.  
 
 ### Content
 
@@ -40,15 +40,15 @@ The images are tested with VICE and Emu64 and seems to work fine.
   * `SYS 2127` (start without highscore load)
   * `SYS 2098` (start with highscore load)
 
-To execute a `POKE` `SYS` command, you have to load the game and do a **soft** reset. Then type `POKE …` hit enter and the start the game with typing `SYS 2127`.
+To execute a `POKE`/`SYS` command, you have to load the game and perform a **soft** reset. Then type `POKE …` hit enter and the start the game with typing `SYS 2127` and `SYS 2098` respectively.
 
 ### Todo
 
-"The Power Sisters", "The Gitty's News", "Frankys Horror Trip I" and "Knibble Girls II" couldn't be recovered from disc; so feel free to contribute these or any other clones.
+"The Power Sisters", "The Gitty's News" and "Knibble Girls II" couldn't be recovered from disc; so feel free to contribute these or any other clones.
 
 ### Issues
 
-Sometimes "The Gitty's News +" doesn't start, in this case start the em
+"Franky Horror Trip 1" and "Power Sisters" couldn't be recovered from disc, but I found a disc image on the internet which I copied to this repository.
 
 ### Gameplay
 
@@ -58,6 +58,6 @@ Sometimes "The Gitty's News +" doesn't start, in this case start the em
 
 ### Disclaimer and License
 
-I'm not involved in any of these projects neither I own any copyrights for this software. Owners retain copyright to their respective works (Time Warp Productions, Rainbow Arts, Armin Gessert, Sandy, Prof. Knibble). The disk images are contributed with no commercial intention. I just share the content of these over 15 years old discs to keep a piece of C64 sofware history.
+I'm not involved in any of these projects neither I own any copyrights for this software. Owners retain copyright to their respective works (Time Warp Productions, Rainbow Arts, Armin Gessert, Sandy, Prof. Knibble et al.). The disk images are contributed with no commercial intention. I just share the content of these over 15 years old discs to keep a piece of C64 sofware history.
 
 If you have any copyright concern please contact me via [philipp.staender@gmail.com](mailto:philipp.staender@gmail.com)  
